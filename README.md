@@ -67,7 +67,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📬 Contact
 
-Created by Aditya Kumar (https://github.com/aditya-kr86) - feel free to reach out!
+Created by [Aditya Kumar](https://github.com/aditya-kr86)  
+Email: [adityakumargupta082003@gmail.com](mailto:adityakumargupta082003@gmail.com)
 
 ---
 
