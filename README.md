@@ -34,7 +34,7 @@ Your band name could be New York Buddy
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/band-name-generator.git
+   git clone https://github.com/aditya-kr86/band-name-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -44,15 +44,6 @@ Your band name could be New York Buddy
    ```bash
    python band_name_generator.py
    ```
-
-## 📂 Code
-
-```python
-print("Welcome to the Band Name Generator.")
-street = input("What's the name of the city you grew up in?\n")
-pet = input("What's your pet's name?\n")
-print("Your band name could be " + street + " " + pet)
-```
 
 ## 📦 Features
 
@@ -74,13 +65,9 @@ print("Your band name could be " + street + " " + pet)
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 
-Created by [Your Name](https://github.com/yourusername) - feel free to reach out!
+Created by Aditya Kumar (https://github.com/aditya-kr86) - feel free to reach out!
 
 ---
 
